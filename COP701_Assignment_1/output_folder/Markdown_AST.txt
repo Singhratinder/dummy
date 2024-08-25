@@ -1,0 +1,300 @@
+Node Type: DOC_CONTENT
+  Node Type: HEADING1_SEQUENCE
+    Node Type: HEADING1_NT
+      Node Type: HEADING1_HEADER
+        Node Type: HEADING1, Value: # 
+        Node Type: OPEN_BRACE
+        Node Type: TEXT, Value: Introduction to IIT Delhi
+        Node Type: CLOSE_BRACE
+        Node Type: NEWLINE, Value: 
+
+      Node Type: HEADING1_BODY
+        Node Type: HEADING2_SEQUENCE
+          Node Type: HEADING2_NT
+            Node Type: HEADING2_HEADER
+              Node Type: HEADING2, Value: ## 
+              Node Type: OPEN_BRACE
+              Node Type: TEXT, Value: Overview
+              Node Type: CLOSE_BRACE
+              Node Type: NEWLINE, Value: 
+
+            Node Type: HEADING2_BODY
+              Node Type: HEADING3_SEQUENCE
+                Node Type: HEADING3_NT
+                  Node Type: HEADING3_HEADER
+                    Node Type: HEADING3, Value: ### 
+                    Node Type: OPEN_BRACE
+                    Node Type: TEXT, Value: History
+                    Node Type: CLOSE_BRACE
+                    Node Type: NEWLINE, Value: 
+
+
+                  Node Type: HEADING3_BODY
+                    Node Type: HEADING3_CONTENT
+                      Node Type: CONTENT_BLOCK
+                        Node Type: ITALICS_NT
+                          Node Type: ITALICS
+                          Node Type: OPEN_BRACE
+                          Node Type: TEXT, Value: Indian Institute of Technology Delhi (IIT Delhi) is one of the premier engineering institutes in India.
+                          Node Type: CLOSE_BRACE
+                          Node Type: NEWLINE, Value: 
+
+                      Node Type: HEADING3_CONTENT_TAIL
+                        Node Type: HEADING3_CONTENT
+                          Node Type: CONTENT_BLOCK
+                            Node Type: BOLD_NT
+                              Node Type: BOLD
+                              Node Type: OPEN_BRACE
+                              Node Type: TEXT, Value: Founded in 1961, IIT Delhi has grown into a world-class institution known for its cutting-edge research and academic excellence.
+                              Node Type: CLOSE_BRACE
+                              Node Type: NEWLINE, Value: 
+
+
+                          Node Type: HEADING3_CONTENT_TAIL
+                            Node Type: HEADING3_CONTENT
+                              Node Type: CONTENT_BLOCK
+                                Node Type: HRULE_NT
+                                  Node Type: HRULE, Value: ___
+                                  Node Type: NEWLINE, Value: 
+
+
+                              Node Type: HEADING3_CONTENT_TAIL
+                                Node Type: HEADING3_CONTENT
+                                  Node Type: CONTENT_BLOCK
+                                    Node Type: TEXT, Value: IIT Delhi is located in Hauz Khas, New Delhi. It offers undergraduate, postgraduate, and doctoral programs in various fields of engineering and technology.
+                                    Node Type: NEWLINE, Value: 
+
+                                  Node Type: HEADING3_CONTENT_TAIL
+                                    Node Type: HEADING3_CONTENT
+                                      Node Type: CONTENT_BLOCK
+                                        Node Type: PARAGRAPH_NT
+                                          Node Type: PARAGRAPH, Value: 
+
+                                          Node Type: NEWLINE, Value: 
+
+                                      Node Type: HEADING3_CONTENT_TAIL
+                                        Node Type: HEADING3_CONTENT
+                                          Node Type: CONTENT_BLOCK
+                                            Node Type: TEXT, Value: The institute is renowned for its rigorous academic programs and distinguished faculty.
+                                            Node Type: NEWLINE, Value: 
+
+
+                                          Node Type: HEADING3_CONTENT_TAIL
+                                            Node Type: HEADING3_CONTENT
+                                              Node Type: CONTENT_BLOCK
+                                                Node Type: FENCED_CODE_BLOCK_NT
+                                                  Node Type: BEGIN_FENCED_CODE_BLOCK, Value: ```
+                                                  Node Type: NEWLINE, Value: 
+
+                                                  Node Type: TEXT_CONTENT_NT
+                                                    Node Type: TEXT, Value: def iit_delhi_info():
+                                                    Node Type: NEWLINE, Value: 
+
+                                                    Node Type: TEXT_CONTENT_NT_TAIL
+                                                      Node Type: TEXT_CONTENT_NT
+                                                        Node Type: TEXT, Value:     print("Welcome to IIT Delhi!")
+                                                        Node Type: NEWLINE, Value: 
+
+                                                        Node Type: TEXT_CONTENT_NT_TAIL
+                                                          Node Type: TEXT_CONTENT_NT
+                                                            Node Type: TEXT, Value:     print("Explore the world-class research and academic programs.")
+                                                            Node Type: NEWLINE, Value: 
+
+                                                            Node Type: TEXT_CONTENT_NT_TAIL
+                                                              Node Type: EPSILON
+                                                  Node Type: END_FENCED_CODE_BLOCK, Value: ```
+                                                  Node Type: NEWLINE, Value: 
+
+
+                                              Node Type: HEADING3_CONTENT_TAIL
+                                                Node Type: HEADING3_CONTENT
+                                                  Node Type: CONTENT_BLOCK
+                                                    Node Type: TEXT, Value: For more information, visit the official IIT Delhi website: 
+                                                    Node Type: NEWLINE, Value: 
+
+                                                  Node Type: HEADING3_CONTENT_TAIL
+                                                    Node Type: HEADING3_CONTENT
+                                                      Node Type: CONTENT_BLOCK
+                                                        Node Type: HREF_NT
+                                                          Node Type: HREF
+                                                          Node Type: OPEN_BRACE
+                                                          Node Type: TEXT, Value: https://www.iitd.ac.in
+                                                          Node Type: CLOSE_BRACE
+                                                          Node Type: OPEN_BRACE
+                                                          Node Type: TEXT, Value: IIT Delhi Official Website
+                                                          Node Type: CLOSE_BRACE
+                                                          Node Type: NEWLINE, Value: 
+
+
+                                                      Node Type: HEADING3_CONTENT_TAIL
+                                                        Node Type: HEADING3_CONTENT
+                                                          Node Type: CONTENT_BLOCK
+                                                            Node Type: IMAGE_NT
+                                                              Node Type: IMAGE
+                                                              Node Type: IMG_OPTIONS_NT
+                                                                Node Type: IMG_OPTIONS, Value: [width=0.5\textwidth]
+                                                              Node Type: IMAGE_NT_TAIL
+                                                                Node Type: OPEN_BRACE
+                                                                Node Type: IMG_PATH, Value: ./images/technology.jpg
+                                                                Node Type: CLOSE_BRACE
+                                                                Node Type: NEWLINE, Value: 
+
+
+                                                          Node Type: HEADING3_CONTENT_TAIL
+                                                            Node Type: HEADING3_CONTENT
+                                                              Node Type: CONTENT_BLOCK
+                                                                Node Type: LISTS_NT
+                                                                  Node Type: UNORDERED_LISTS_NT
+                                                                    Node Type: BEGIN_UNORDERED_LIST
+                                                                    Node Type: NEWLINE, Value: 
+
+                                                                    Node Type: ITEMS_OPT_NESTED_LISTS_SEQUENCE
+                                                                      Node Type: ITEM_OPT_NESTED_LISTS_NT
+                                                                        Node Type: ITEM
+                                                                        Node Type: TEXT, Value: Established: 1961
+                                                                        Node Type: NEWLINE, Value: 
+
+                                                                        Node Type: NESTED_LISTS_NT
+                                                                          Node Type: EPSILON
+                                                                        Node Type: ITEMS_OPT_NESTED_LISTS_TAIL
+                                                                          Node Type: ITEM_OPT_NESTED_LISTS_NT
+                                                                            Node Type: ITEM
+                                                                            Node Type: TEXT, Value: Location: Hauz Khas, New Delhi
+                                                                            Node Type: NEWLINE, Value: 
+
+                                                                            Node Type: NESTED_LISTS_NT
+                                                                              Node Type: EPSILON
+                                                                            Node Type: ITEMS_OPT_NESTED_LISTS_TAIL
+                                                                              Node Type: ITEM_OPT_NESTED_LISTS_NT
+                                                                                Node Type: ITEM
+                                                                                Node Type: TEXT, Value: Programs: B.Tech, M.Tech, Ph.D., and more
+                                                                                Node Type: NEWLINE, Value: 
+
+                                                                                Node Type: NESTED_LISTS_NT
+                                                                                  Node Type: EPSILON
+                                                                                Node Type: ITEMS_OPT_NESTED_LISTS_TAIL
+                                                                                  Node Type: EPSILON
+                                                                    Node Type: END_UNORDERED_LIST
+                                                                    Node Type: NEWLINE, Value: 
+
+
+                                                              Node Type: HEADING3_CONTENT_TAIL
+                                                                Node Type: HEADING3_CONTENT
+                                                                  Node Type: CONTENT_BLOCK
+                                                                    Node Type: LISTS_NT
+                                                                      Node Type: ORDERED_LISTS_NT
+                                                                        Node Type: BEGIN_ORDERED_LIST
+                                                                        Node Type: NEWLINE, Value: 
+
+                                                                        Node Type: ITEMS_OPT_NESTED_LISTS_SEQUENCE
+                                                                          Node Type: ITEM_OPT_NESTED_LISTS_NT
+                                                                            Node Type: ITEM
+                                                                            Node Type: TEXT, Value: Campus Facilities
+                                                                            Node Type: NEWLINE, Value: 
+
+                                                                            Node Type: NESTED_LISTS_NT
+                                                                              Node Type: EPSILON
+                                                                            Node Type: ITEMS_OPT_NESTED_LISTS_TAIL
+                                                                              Node Type: ITEM_OPT_NESTED_LISTS_NT
+                                                                                Node Type: ITEM
+                                                                                Node Type: TEXT, Value: Research Opportunities
+                                                                                Node Type: NEWLINE, Value: 
+
+                                                                                Node Type: NESTED_LISTS_NT
+                                                                                  Node Type: EPSILON
+                                                                                Node Type: ITEMS_OPT_NESTED_LISTS_TAIL
+                                                                                  Node Type: ITEM_OPT_NESTED_LISTS_NT
+                                                                                    Node Type: ITEM
+                                                                                    Node Type: TEXT, Value: Alumni Achievements
+                                                                                    Node Type: NEWLINE, Value: 
+
+                                                                                    Node Type: NESTED_LISTS_NT
+                                                                                      Node Type: EPSILON
+                                                                                    Node Type: ITEMS_OPT_NESTED_LISTS_TAIL
+                                                                                      Node Type: EPSILON
+                                                                        Node Type: END_ORDERED_LIST
+                                                                        Node Type: NEWLINE, Value: 
+
+
+                                                                  Node Type: HEADING3_CONTENT_TAIL
+                                                                    Node Type: HEADING3_CONTENT
+                                                                      Node Type: CONTENT_BLOCK
+                                                                        Node Type: TABLE_NT
+                                                                          Node Type: BEGIN_TABLE
+                                                                          Node Type: OPEN_BRACE
+                                                                          Node Type: COLUMN_SPEC, Value: |c|c|
+                                                                          Node Type: CLOSE_BRACE
+                                                                          Node Type: NEWLINE, Value: 
+
+                                                                          Node Type: HLINE_NT
+                                                                            Node Type: HLINE
+                                                                            Node Type: NEWLINE, Value: 
+
+                                                                          Node Type: TABLE_ROWS_NT
+                                                                            Node Type: TABLE_ROW_NT
+                                                                              Node Type: TEXT, Value: Department 
+                                                                              Node Type: TABLE_ROW_NT_TAIL
+                                                                                Node Type: COLUMN_SEPARATOR
+                                                                                Node Type: TABLE_ROW_NT
+                                                                                  Node Type: TEXT, Value:  Programs 
+                                                                                  Node Type: TABLE_ROW_NT_TAIL
+                                                                                    Node Type: EPSILON
+                                                                            Node Type: ROW_SEPARATOR, Value: |
+
+                                                                            Node Type: NEWLINE, Value: 
+
+                                                                            Node Type: HLINE_NT
+                                                                              Node Type: HLINE
+                                                                              Node Type: NEWLINE, Value: 
+
+                                                                            Node Type: TABLE_ROW_NT_TAIL
+                                                                              Node Type: TABLE_ROWS_NT
+                                                                                Node Type: TABLE_ROW_NT
+                                                                                  Node Type: TEXT, Value: Computer Science 
+                                                                                  Node Type: TABLE_ROW_NT_TAIL
+                                                                                    Node Type: COLUMN_SEPARATOR
+                                                                                    Node Type: TABLE_ROW_NT
+                                                                                      Node Type: TEXT, Value:  B.Tech, M.Tech, Ph.D. 
+                                                                                      Node Type: TABLE_ROW_NT_TAIL
+                                                                                        Node Type: EPSILON
+                                                                                Node Type: ROW_SEPARATOR, Value: |
+
+                                                                                Node Type: NEWLINE, Value: 
+
+                                                                                Node Type: HLINE_NT
+                                                                                  Node Type: HLINE
+                                                                                  Node Type: NEWLINE, Value: 
+
+                                                                                Node Type: TABLE_ROW_NT_TAIL
+                                                                                  Node Type: TABLE_ROWS_NT
+                                                                                    Node Type: TABLE_ROW_NT
+                                                                                      Node Type: TEXT, Value: Electrical Engineering 
+                                                                                      Node Type: TABLE_ROW_NT_TAIL
+                                                                                        Node Type: COLUMN_SEPARATOR
+                                                                                        Node Type: TABLE_ROW_NT
+                                                                                          Node Type: TEXT, Value:  B.Tech, M.Tech, Ph.D. 
+                                                                                          Node Type: TABLE_ROW_NT_TAIL
+                                                                                            Node Type: EPSILON
+                                                                                    Node Type: ROW_SEPARATOR, Value: |
+
+                                                                                    Node Type: NEWLINE, Value: 
+
+                                                                                    Node Type: HLINE_NT
+                                                                                      Node Type: HLINE
+                                                                                      Node Type: NEWLINE, Value: 
+
+                                                                                    Node Type: TABLE_ROW_NT_TAIL
+                                                                                      Node Type: EPSILON
+                                                                          Node Type: END_TABLE
+                                                                          Node Type: NEWLINE, Value: 
+
+
+
+                                                                      Node Type: HEADING3_CONTENT_TAIL
+                                                                        Node Type: EPSILON
+                Node Type: HEADING3_SEQUENCE_TAIL
+                  Node Type: EPSILON
+          Node Type: HEADING2_SEQUENCE_TAIL
+            Node Type: EPSILON
+    Node Type: HEADING1_SEQUENCE_TAIL
+      Node Type: EPSILON
